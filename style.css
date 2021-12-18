@@ -1,0 +1,20 @@
+.h3,.y1{
+    font-family: 'Fruktur', cursive;
+    font-size: 50px;
+    color:red;
+}
+
+.t1,.t2{
+    font-size: 30px;
+    font-family: 'Fruktur', cursive;
+}
+
+.div1{
+    background-color: grey;
+    border-radius: 60px;
+}
+
+.canvas,.canvas1,.canvas2{
+    border:ridge;
+    border-radius: 60px;
+}
